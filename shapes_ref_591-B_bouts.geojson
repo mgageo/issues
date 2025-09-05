@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "shapes_ref_591-B_bouts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Drugeon" }, "geometry": { "type": "Point", "coordinates": [ 366366.10121810255805, 6796339.245251597836614 ] } },
+{ "type": "Feature", "properties": { "name": "Le Drugeon" }, "geometry": { "type": "Point", "coordinates": [ 366366.10121810255805, 6796339.245251597836614 ] } },
+{ "type": "Feature", "properties": { "name": "Centre" }, "geometry": { "type": "Point", "coordinates": [ 375475.058378583693411, 6797055.190710166469216 ] } },
+{ "type": "Feature", "properties": { "name": "Centre" }, "geometry": { "type": "Point", "coordinates": [ 375475.058378583693411, 6797055.190710166469216 ] } },
+{ "type": "Feature", "properties": { "name": "Bruyeres" }, "geometry": { "type": "Point", "coordinates": [ 370384.057516660250258, 6796184.449908692389727 ] } },
+{ "type": "Feature", "properties": { "name": "Bruyeres" }, "geometry": { "type": "Point", "coordinates": [ 370384.057516660250258, 6796184.449908692389727 ] } },
+{ "type": "Feature", "properties": { "name": "Bruyeres" }, "geometry": { "type": "Point", "coordinates": [ 370384.057516660250258, 6796184.449908692389727 ] } },
+{ "type": "Feature", "properties": { "name": "Bruyeres" }, "geometry": { "type": "Point", "coordinates": [ 370384.057516660250258, 6796184.449908692389727 ] } },
+{ "type": "Feature", "properties": { "name": "La Grotte" }, "geometry": { "type": "Point", "coordinates": [ 361320.073427494382486, 6803074.745002791285515 ] } },
+{ "type": "Feature", "properties": { "name": "Centre" }, "geometry": { "type": "Point", "coordinates": [ 375475.058378583693411, 6797055.190710166469216 ] } },
+{ "type": "Feature", "properties": { "name": "La Grotte" }, "geometry": { "type": "Point", "coordinates": [ 361320.073427494382486, 6803074.745002791285515 ] } },
+{ "type": "Feature", "properties": { "name": "Sévailles" }, "geometry": { "type": "Point", "coordinates": [ 366208.968183660006616, 6800531.338729730807245 ] } },
+{ "type": "Feature", "properties": { "name": "Sévailles" }, "geometry": { "type": "Point", "coordinates": [ 366208.968183660006616, 6800531.338729730807245 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356405.90058797824895, 6791249.806374855339527 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } },
+{ "type": "Feature", "properties": { "name": "Rennes/Cesson Viasilva" }, "geometry": { "type": "Point", "coordinates": [ 356453.871736583649181, 6791437.668538153171539 ] } }
+]
+}
